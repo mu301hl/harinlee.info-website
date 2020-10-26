@@ -14,11 +14,12 @@ organizations:
   url: "https://www.cbs.mpg.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include auditory cognition, MIR and psychoacoustics.
+bio: PhD student interested in music cognition.
 
 interests:
 - Music Cognition
 - Psychoacoustics
+- Music Information Retrieval
 - Cross-cultural Research
 
 education:
@@ -65,5 +66,5 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-I’m interested in why music exists across all cultures when there is no obvious link to our survival. I intend to find how music could've evolved, drawing from the global role of music and its relationships to our neural and physical mechanics. Coming from a sound engineering background, I'm also intrigued by the physical properties of sound and how it's translated in our brain. I wish to learn more about the human auditory cognition and study the interinvidiual or culutral differences there may be.
+I’m interested in why music exists across all cultures when there is no obvious link to our survival. I intend to find how music could've evolved, drawing from the global role of music and its relationships to our neural and physical mechanics. Coming from a sound engineering background, I'm also intrigued by the physical properties of sound and how it's translated in our brain. I wish to learn more about the human auditory cognition and study the interindividual or culutral differences there may be.
 
