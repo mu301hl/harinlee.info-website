@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Evolution of popular songs around the world"
-summary: "Trend in music changes over time and reflects the cultural expression of its time. By treating musical recordings like fossil records to study its historical path, we apply a data-driven approach to provide a quantitative picture of how popular music have evolved since the 1940s to present day in different parts of the world. The project aims to build a novel dataset (~ 2 million entries) that combines music chart records of more than 20 countries with their auditory features retrieved using music informaion retrieval (MIR) algorithms, as well as meta-data and lyrics obtained through API."
+summary: ""
 authors: [Harin Lee, Minsu Park]
-tags: []
+tags: [Current,]
 categories: [On-going Projects]
 date: 2020-10-25T17:24:12+01:00
 
@@ -16,8 +16,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Trend in music changes over time and reflects the cultural expression of its time. By treating musical recordings like fossil records to study its historical path, we apply a data-driven approach to provide a quantitative picture of how popular music have evolved since the 1940s to present day in different parts of the world. The project aims to build a novel dataset (~ 2 million entries) that combines music chart records of more than 20 countries with their auditory features retrieved using music informaion retrieval (MIR) algorithms, as well as meta-data and lyrics obtained through API.

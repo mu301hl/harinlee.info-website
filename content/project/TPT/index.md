@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Timbre Perception Test (TPT)"
-summary: "We developed the TPT with the aim to provide a useful tool for the music psychology community for measuring individual differences in timbral perception. In light of the existing literatures on dimensions of the timbre space, the TPT examines participants’ ability to reproduce the heard stimuli along the dimensions of envelope, spectral centroid, and spectral flux."
+summary: ""
 authors: [Harin Lee, Daniel Müllensiefen]
-tags: []
+tags: [Past,]
 categories: [Past Projects]
 date: 2020-10-25T16:57:16+01:00
 
@@ -28,7 +28,6 @@ image:
 #   icon: twitter
 
 url_code: "ttps://osf.io/9c8qz/"
-
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+We developed the TPT with the aim to provide a useful tool for the music psychology community for measuring individual differences in timbral perception. In light of the existing literatures on dimensions of the timbre space, the TPT examines participants’ ability to reproduce the heard stimuli along the dimensions of envelope, spectral centroid, and spectral flux.

@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Signals Through Music and Dance"
-summary: "We used realistic virtual avatars generated with a 3D game engine to compare the two competing hypotheses on evolutionary origins of music and dance - social bonding and coalition signalling. Participants were shown dancing avatar groups that were engaged in different forms of coordinated dance. We assessed perceived social closeness and formidability (i.e. powerful, daunting) of groups and how performance quality, movement type, and musical rhythm might influence these perceptions. Additionally, we made a direct comparison between real people, virtual avatars, and point-light-display figures to validate the robustness of using virtual avatars for studying complex movement perception."
+summary: ""
 authors: [Harin Lee, Jacques Launay, Lauren Stewart]
-tags: []
+tags: [Past]
 categories: [Past Projects]
 date: 2020-10-25T17:11:18+01:00
 
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+We used realistic virtual avatars generated with a 3D game engine to compare the two competing hypotheses on evolutionary origins of music and dance - social bonding and coalition signalling. Participants were shown dancing avatar groups that were engaged in different forms of coordinated dance. We assessed perceived social closeness and formidability (i.e. powerful, daunting) of groups and how performance quality, movement type, and musical rhythm might influence these perceptions. Additionally, we made a direct comparison between real people, virtual avatars, and point-light-display figures to validate the robustness of using virtual avatars for studying complex movement perception.
