@@ -6,7 +6,7 @@ title: Harin Lee
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.cbs.mpg.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include auditory cognition, MIR and psychoacoustics.
 
 interests:
 - Music Cognition
@@ -37,13 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:hlee@cbs.mpg.de".
+  link: mailto:hlee@cbs.mpg.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TweetHarin
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mu301hl
