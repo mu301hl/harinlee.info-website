@@ -25,10 +25,10 @@ education:
   courses:
   - course: MSc in Music, Mind and Brain
     institution: Goldsmiths, University of London
-    year: 2018
+    year: 
   - course: BMus in Popular Music 
     institution: Goldsmiths, University of London
-    year: 2017
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,9 +49,9 @@ social:
   link: https://github.com/mu301hl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/artist/35RkqH8zzBlIlaoz1JE1PR?si=6n4TholGSEqhNGSVW-m17g 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -65,5 +65,5 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-I’m interested in why music, often accompanied by dance, exists across all cultures when there is no direct link to our survival. I intend to find how music could've evolved, drawing from music's global role and its relationships to our neural and physical mechanics. Coming from a sound engineering background, I'm also intrigued by the physical properties of sound and how it's translated in our brain. I wish to investigate more about our auditory perception and to what extent it's global or culture specific.
+I’m interested in why music exists across all cultures when there is no obvious link to our survival. I intend to find how music could've evolved, drawing from the global role of music and its relationships to our neural and physical mechanics. Coming from a sound engineering background, I'm also intrigued by the physical properties of sound and how it's translated in our brain. I wish to learn more about the human auditory cognition and study the interinvidiual or culutral differences there may be.
 
